@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookAppversion1.0</string>
+    <string name="Read">Read Your favorite books</string>
+    <string name="text">we\'ve put together most books so you can  find and enjoy your favorite books</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textDash">What are you waiting ? login now to use your e-book application</string>
+    <string name="login">Login</string>
+    <string name="new_user_register_now">"New User ?register Now "</string>
+    <string name="new_user_register_no">New User ? Register New</string>
+    <string name="AdminGreeting">Welcome back Admin</string>
+    <string name="Exit">Exit</string>
+    <string name="textbu"><![CDATA[<-]]></string>
+    <string name="UserGreeting">Here\'s yor first step with us</string>
+    <string name="sign">Sign</string>
+    <string name="sign_up">Sign_up</string>
+    <string name="UserGreetin">Here\'s your first step with us ,sign up now !</string>
+</resources>

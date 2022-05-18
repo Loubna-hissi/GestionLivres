@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/drawable/round_borde.xml" value="0.22205128205128205" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/drawable/round_button.xml" value="0.22037037037037038" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/activity_book_details.xml" value="0.25" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/activity_profile.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/activity_sign.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/card.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/carduser.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/fragment_admin_login.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/fragment_ajoutbook.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/fragment_all_users.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/fragment_app.xml" value="0.22" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/fragment_book_list_admin.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/fragment_dashboard.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/fragment_espace_admin.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/fragment_list_category.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/fragment_statistic.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/item_book_recycler.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/layout/itemcategory.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Desktop/booke/app/src/main/res/menu/menu_items.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/activity_book_details.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/activity_home.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/activity_profile.xml" value="0.1638888888888889" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/activity_sign.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/fragment_admin_login.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/fragment_ajoutbook.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/fragment_app.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/fragment_book_list_admin.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/fragment_espace_admin.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/fragment_list_category.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/fragment_statistic.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/layout/item_book_recycler.xml" value="0.209375" />
+        <entry key="..\:/Users/USER/Downloads/BookAppLastVersion/AppAndroid/app/src/main/res/menu/menu_items.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
